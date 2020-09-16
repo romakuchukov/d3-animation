@@ -22,7 +22,7 @@ export default [{
   },
   plugins
 }, {
-  input: `${src}custom.js`,
+  input: `${src}main.js`,
   output: {
     name: 'Main',
     format: 'iife',
