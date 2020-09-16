@@ -15,7 +15,7 @@ export default [{
   onwarn: onwarn,
   input: `${src}index.js`,
   output: {
-    name: 'lib',
+    name: 'd3',
     dir: dist,
     format: 'umd',
     entryFileNames: 'lib.min.js'
